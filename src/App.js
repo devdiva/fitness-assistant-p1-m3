@@ -1,5 +1,7 @@
 import logo from './poser.svg';
 import './App.css';
+import * as tf from '@tensorflow/tfjs';
+import { isCompositeComponent } from 'react-dom/test-utils';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
 
 export default App;
 
- const handleRunTraining = (event) => {
-   console.log('Run training')
- };
+const handleRunTraining = (event) => {
+  const simpleTensor = tf.tensor([[1, 2], [3, 4]]);
+  simpleTensor.print();
+  console.log('Run training')
+};
