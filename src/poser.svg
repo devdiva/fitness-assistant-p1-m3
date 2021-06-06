@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg12"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="poser.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.62462771"
+     inkscape:cx="299.37833"
+     inkscape:cy="393.03412"
+     inkscape:window-width="1047"
+     inkscape:window-height="1035"
+     inkscape:window-x="930"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="512px" />
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.450511;stop-color:#000000"
+       id="path38"
+       cx="64.826508"
+       cy="19.705803"
+       rx="6.7816195"
+       ry="9.7372303"
+       inkscape:export-filename="/Users/dd/workspace/projects/manning-reviews/live-projects/human-post-estimation-with-tensorflow/fitness-assistant-p1-m2/public/logo.png"
+       inkscape:export-xdpi="95.818199"
+       inkscape:export-ydpi="95.818199" />
+    <rect
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.37174;stop-color:#000000"
+       id="rect142"
+       width="66.478081"
+       height="11.704906"
+       x="31.587458"
+       y="39.138741"
+       inkscape:export-filename="/Users/dd/workspace/projects/manning-reviews/live-projects/human-post-estimation-with-tensorflow/fitness-assistant-p1-m2/public/logo.png"
+       inkscape:export-xdpi="95.818199"
+       inkscape:export-ydpi="95.818199" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.225326px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.542076,124.76612 11.302701,0.94232 23.394149,-35.807894 9.042163,34.865574 11.020137,0.31411 L 72.956362,57.861923 C 73.238926,88.330024 52.406573,103.97239 38.542076,124.76612 Z"
+       id="path650"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/dd/workspace/projects/manning-reviews/live-projects/human-post-estimation-with-tensorflow/fitness-assistant-p1-m2/public/logo.png"
+       inkscape:export-xdpi="95.818199"
+       inkscape:export-ydpi="95.818199" />
+  </g>
+</svg>

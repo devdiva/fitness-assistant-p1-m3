@@ -1,3 +1,13 @@
+
+# Fitness Assistant 
+
+_This is an exercise for the Manning liveProject "Human Pose Estimation with TensorFlow".  
+This is yet another great way to learn, check this and other live projects out at: 
+https://liveproject.manning.com/_
+
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
